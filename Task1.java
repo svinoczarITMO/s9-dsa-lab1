@@ -39,7 +39,7 @@ class Task1 {
             arr[i] = min + i;
         }
 
-        System.out.println("Введите число в диапозоге от " + min + " до " + max);
+        System.out.println("Введите число в диапозоне от " + min + " до " + max);
         int target = scanner.nextInt();
         scanner.close();
 
